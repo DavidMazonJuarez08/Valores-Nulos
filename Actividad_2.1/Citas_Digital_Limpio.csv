@@ -1,0 +1,678 @@
+BDC ,Fecha,Nombre Cliente ,Telefono ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado,¿Por que no ha visitado la agencia?,¿Por que no hay solicitud de credito?,¿Por que no hubo prueba de manejo ?,¿Por que no hubo proceso wow?,¿Por que se asigno antes de vistar piso?,Unnamed: 15
+Saul ,Sin dato,Guillermo ,Sin dato,Finalizado ,0.9,1.0,0.0,0.0,Nancy,"Ya visito la Agencia  el dia jueves 17, interesado en GN8 PHEV ","Pide arrendamiento, unicamente se esta en espera de contacto con el contador, posibilidad de compra 90%","Si, hizo prueba de manejo ","Si recibio procesos wow, estuvo en la agencia mas de 3hrs ","No, se espero a que visitara la agencia para ser asignado ",Comenta que no se le hizo atractivo el arrendamiento 
+Saul ,Sin dato,Roberto ,Sin dato,Finalizado ,0.4,0.0,0.0,0.0,Victor ,Ya visito la Agencia  el dia 3 de abril ,Por que primero queria manejar las unidad ,No habia unidad GS8 HEV para prueba de manejo ,"Si recibio procesos wow, sin embargo no quizo nada de lo que se le ofrecio como amenidad ",Se asigno hasta que visitara Piso ,Sin respuesta
+Saul ,Sin dato,Irving ,Sin dato,Finalizado ,0.85,0.0,0.0,0.0,Alan ,Ya visito la agencia el dia 21 de abril ,"Firmo solicitud, sin embargo despues comento que seria contado solo que venta su auto, ya esta en proceso de venta ",Por que no habia unidad para prueba de manejo ,"Si se realizo el proceso wow, los clientes se quedaron hasta las 9:00 PM",Se asigno hasta que visitara Piso ,Se le manda msj de seguimiento 03/05/2025
+Saul ,Sin dato,Oswaldo ,Sin dato,Venta ,0.9,0.0,0.0,1.0,Mauricio ,El cliente vive en Tabasco Villahermosa,Sera compra de contado,"Ya la manejo en Villahermosa, sin embargo por promocion y disponibilidad la comprara con nosotros","Las veces que se le ha marcado, agradece mucho la atencion por BDC y por el seguimiento continuo","Necesitabamos sacar el apartado, por eso se asigno antes, quedo de depositar el 23 de abril ",Sin respuesta
+Saul ,Sin dato,Rodrigo ,Sin dato,Finalizado ,0.9,1.0,0.0,0.0,Mauricio ,"Visito la agencia el mes pasado, y nos visita nuevamente el 23 de abril ",Hoy visita nuevamente la agencia y se firma solicitud ,"La primera vez que nos visito, realizo PDM",Si recibio el proceso wow la primera vez que nos visito ,"Se asigno hasta que visitara Piso  la primera vez, y se da nuevamnete el seguimiento con ese asesor ",Por el detalle del carbilink compro en otra marca 
+Saul ,Sin dato,Antonio,Sin dato,Activo ,0.85,1.0,1.0,0.0,Mauricio ,Visito la agencia el dia 13 de abril,Si hubo solicitud de credito ,Si realizo prueba de manejo ,"Lo resivio por parte del asesor, ya que el dia domingo la Hosstes descansa ",Se asigno hasta que visitara Piso ,Solo estamos en espera de venta de auto 
+Saul ,Sin dato,Juan Carlos,Sin dato,Finalizado ,0.2,0.0,0.0,0.0,Ricardo ,"Se programo la visita dos dias, pero nunca asistio ",Comento que firmaba en cuando visitara la agencia ,No visito la agencia ,El el proceso de BDC siempre hubo la atencion adecuada y seguimiento ,Se asgino antes por recomendacion de Gerencia de ventas ,Comento que ya compro en otra marca
+Saul ,Sin dato,Jose Alfredo ,Sin dato,Finalizado ,0.5,1.0,0.0,0.0,Mauricio ,Visito la agencia el dia 13 de abril,Se le compartio cotizacion de arrendamiento sin embargo comenta que saldria del estado y posteriormente se comunicaria ,Se realizo PDM en EMkOO HEV,Si hubo por parte del asesor,Se asigno hasta que visitara Piso ,comenta que sigue viendo opciones 
+Saul ,Sin dato,Jacinto ,Sin dato,Finalizado ,0.8,0.0,0.0,0.0,Nancy,No ha visitado la agencia por temas de trabajo ,"Se esta trabajando en ello, sin embargo el cliente tarda en responder",Por que no ha visitado la agencia ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas ,Sin respuesta
+Saul ,Sin dato,Felipe ,Sin dato,Finalizado ,0.8,1.0,0.0,0.0,Alan ,Se le complicaba asitir sin embargo se le llevo la unidad a su casa,Por que comenta que lo esta platicando con su esposa y da respuesta esta semana ,Si hubo prueba de manejo a domicilio ,"Si lo hubo por parte dell asesor, quedo muy contento ",Se asgino antes por recomendacion de Gerencia de ventas,Sin respuesta
+Saul ,Sin dato,Luz Mercedes,Sin dato,Venta ,1.0,1.0,1.0,1.0,Mauricio ,Si visito la agencia ,Si hubo solicitud de credito ,Si realizo prueba de manejo ,Si  recibio el proceso wow,Se asigno hasta que visitara Piso ,Sin respuesta
+Antonio,Sin dato,Enrique,Sin dato,Finalizado ,0.8,1.0,1.0,0.0,Alan ,Cita efectiva,capacidad de pago,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Esteban ,Sin dato,Finalizado ,0.6,0.0,0.0,0.0,Aurelio ,No ha visitado la agencia por que primero queria saber estatus de su credito ,"El cliente esta en toda la disposicion de  compartir papeles, pero se asigno a asesor y el lead dejo de dar respuesta ",No concreto cita efectiva el vendedor ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas,Sin respuesta
+Saul ,Sin dato,Ramon ,Sin dato,Finalizado ,0.9,1.0,1.0,0.0,Eduardo ,Ya la visito anteriormente sin embargo este mes aun no ,Hay credito autorizado ,"Ya hizo prueba de manejo, en mes anterior ",El cliente esta muy satisfecho con la atencion por parte de BDC y APV,Se asigno hasta visita en Plaza angelopolis ,Sin respuesta
+Saul ,Sin dato,Jose de Jesus ,Sin dato,Finalizado ,0.6,1.0,0.0,0.0,Alan ,Ya visito la agencia,El apv comenta que no tiene forma de demostrat ingresos ,No quizo realizar su prueba de manejo ,Se realizo el proceso wow por parte del asesor ,Se asigno hasta que visitara Piso ,Sin respuesta
+Saul ,Sin dato,Mugdel Janer Morales,Sin dato,Venta ,0.8,0.0,1.0,0.0,Victor ,Ya  visito la agencia,Esta en analisis,"No tenia tiempo, comenta tener prisa",Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Carlos Alberto Rios,Sin dato,Activo ,0.8,0.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ingresan por Mstar,No trajo licencia,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Vicente Cortes  ,Sin dato,Finalizado ,0.6,1.0,0.0,0.0,Alan ,Ya visito la agencia,Comento mandar papeles y dejo de contestar,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Angel  ,Sin dato,Venta ,1.0,1.0,1.0,1.0,pedro,ya visito la agencia,compro de contado,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Jorge Luis Nunez ,Sin dato,Activo ,0.8,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,Primero quiere que la vea su esposa,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Mercy,Sin dato,Finalizado ,0.2,1.0,0.0,0.0,pedro,ya visito la agencia,"No quizo, solo queria boletos del cine",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Antonio Rodriguez,Sin dato,Activo ,0.8,1.0,0.0,0.0,Alan ,ya visito la agencia,"ya ingreso, le faltan mas estados de cuenta",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Juan Colotl  ,Sin dato,Activo ,0.7,0.0,1.0,0.0,Laura,ya visito la agencia,Ya se ingreso esta en analisis,Se le ofrecio pero no quizo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Samuel Salamanca,Sin dato,Acitvo ,0.8,0.0,0.0,0.0,pedro,ya visito la agencia,Quizo conocer primero la unidad,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Christoph Vega,Sin dato,Activo ,0.8,0.0,0.0,0.0,Mauricio ,ya visito la agencia,"solo vio la unidad, su bb estubo desinquieta decidieron retirarse",su bb estubo desinquieta decidieron retirarse,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Jose Campos ,Sin dato,Activo ,0.7,0.0,1.0,0.0,Ricardo ,Ya visito la agencia el dia 24 de abril ,"Es arrendamiento, y esta solo en decidir la unidad ","La unidad no estaba en la agencia, y no habia GS4 habilitada para PDM",Si recibio la atencion ,Por indicaciones de gerencia de ventas,Sin respuesta
+Saul ,Sin dato,Roberto Luis Pacheco,Sin dato,Activo ,0.4,0.0,0.0,0.0,Pedro,"Ya visito la agencia, llego desde Oaxaca ",Comenta que la unidad ,Le gusto la unidad pero comenta que no es para el ,Recibio la atencion ,Se asigno hasta que visitara Piso ,Sin respuesta
+Antonio,Sin dato,Carlos  Texis  Rodriguez  ,Sin dato,Venta ,1.0,1.0,1.0,1.0,Alan ,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Javier Pazos,Sin dato,Acitvo ,0.7,1.0,1.0,0.0,Eduardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Roberto Portilla,Sin dato,Activo ,0.7,0.0,0.0,0.0,Victor ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Se asigna en la visita,Sin respuesta
+Antonio ,Sin dato,Julian marin castillo,Sin dato,Activo ,0.8,1.0,0.0,0.0,Aurelio ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Citas efectivas,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0,0,0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Saul ,Sin dato,13,Toño,11,0.0,9.0,0,0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+MAYO,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Edgar Becerril,Sin dato,Venta,0.8,1.0,1.0,1.0,Ricardo ,Ya visito la agencia,"No tenia tiempo, quedo de mandar la informacion",Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Quetzalli Fernanda,Sin dato,Acitvo ,0.8,1.0,1.0,0.0,Ricardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Sin respuesta,Sin respuesta
+Saul ,Sin dato,Antonio ,Sin dato,Finalizado,0.9,1.0,0.0,0,Mauricio ,Visito la Agencia el dia 1 de Mayo ,Por que primero quiere vender su sentra,Realizo PDM en Emkoo,Si hubo por parte del asesor,Se asigna en la visita,Cliente comenta tener problemas y pasa su compra para despues 
+Saul ,Sin dato,Estela Hernandez,Sin dato,Finalizado ,0.7,1.0,1.0,0.0,Mauricio ,Visito Custom 2 veces para ver emzoom ,Ya lleno la solicitud de credito ,Ya se realizo prueba de manejo en Apizaco ,Recibio la atencion ,Ocupa asesoria tecnica y visita en tlaxcala ,Se finaliza por que vio otra marca 
+Saul ,Sin dato,Arturo Sanchez ,Sin dato,Finalizado ,0.9,1.0,1.0,0.0,Referido Pablo,Nos visita el dia de hoy ,lleno papeles para credito ,Si hubo prueba de manejo ,Recibio la atencion ,Lead referido pero tratado en Digital,"Tiene credito autorizaco, pero aun no vende su camiones se le dio seguimiento pero deja de responder "
+Antonio,Sin dato,Anselmo Villarreal Rodas,Sin dato,Finalizado,0.7,1.0,1.0,0.0,Eduardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Andres Fernandez Martinez ,Sin dato,Finalizado,0.9,1.0,0.0,0.0,Eduardo ,Lo visitamos en su casa,Ya se ingreso solicitud,Espera GS8 H,Sin respuesta,Sin respuesta,Sin respuesta
+Saul ,Sin dato,Ulises Alejo ,Sin dato,Finalizado ,0.8,1.0,0.0,0.0,Nancy,Ya visito la agencia el dia domingo 11,Ya se paso a precalificar ,Si hizo prueba de manejo y le encanto la unidad ,Recibio la atencion ,Se asigno hasta el momento de la visita ,El tema de gasolina es lo que le preocupa y por eso no hace la compra
+Saul ,Sin dato,Jose alberto ,Sin dato,Finalizado ,0.7,0.0,0.0,0.0,Aurelio ,Ya nos visito el dia 12 de mayo ,No quizo dejar INE pero asegura que compra ,Si realizo prueba de manejo ,Recibio la atencion,Se asigno hasta el momento de la visita ,El cliente dice estar tomandodose su tiempo 
+Saul ,Sin dato,Adilene Ruiz,Sin dato,Venta,0.9,1.0,1.0,1.0,Mauricio ,Ya nos visito el dia 13 de mayo,Ya hay solicitud aprobada por Mstart ,Si realizo prueba de manejo ,Recibio la atencion,Se asgino hasta la visita en piso ,Sin respuesta
+Saul ,Sin dato,Gerardo garcia ,Sin dato,Finalizado,0.6,1.0,0.0,0,Eduardo ,Ya nos visito el dia 13 de mayo ,Pide que su mensualidad no exceda los 6mil ,Si hubo prueba de manejo,"recibio la atencion, se fue muy contento ",Se asigno hasta el momento de la visita ,Busca mensualidades de no mas de 6000 pero no da mas del 20% de enganche 
+Saul ,Sin dato,Erick Calderón,Sin dato,Finalizado ,0.8,1.0,0.0,0.0,Ricardo ,Ya nos visito el dia  14 de mayo,Es arrendamiento y se esta en espera de contacto,No habia unidad GS8 disponible en la agencia ,Recibio la atencion ,Se asgino hasta la visita en piso ,Comenta que no le urge y esta en espera
+Saul ,Sin dato,Jose Luis,Sin dato,Venta,0.95,1.0,1.0,1.0,Victor ,Ya nos visito el dia 17 de mayo,No quiso dejar solicitud firmada,Si hubo prueba de manejo ,Si recibio la atencion ,Se asigna hasta la visita a piso,Sin respuesta
+Saul ,Sin dato,Cesar  Aguilar,Sin dato,Venta,0.8,1.0,1.0,1.0,Victor ,El cliente es de Veracruz ,Ya hay credito aprobado,El cliente es de Verazruz,ha recibido la atencion correcta ,Para seguimiento a distancia por el Apv,Sin respuesta
+Saul ,Sin dato,Christian ,Sin dato,Venta,0.8,1.0,0.0,0.0,Aurelio ,"Ya nos visito, y comenta que nos visitara nuevamnete el dia sabado 24 de mayo",Sera compra de contado ,Se le incistio pero no quizo ,Si recibio la atencion ,Se asigna hasta la visita a piso,"Nos visitara nuevamente el dia 28 de mayo, nuevamente "
+Antonio,Sin dato,Diego Cabrejiz,Sin dato,Activo,0.8,1.0,0.0,1.0,Nancy,Ya visito la agencia,Sera compra de contado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Sergio Osorno,Sin dato,Acitvo ,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Jossmarr Csm Gil,Sin dato,Activo,0.7,1.0,1.0,0.0,Pedro/Eduardo,Ya visito la agencia,Quiere que vea la unidad su esposa,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Pedro Bello,Sin dato,Venta,0.8,1.0,1.0,1.0,CASA ,"Visito la agencia y no habia asesor lo atiende pablo, lead del mes de abril ",ya hay solicitud aprobada,Si realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Herrera Erick/Maria del Carmen,Sin dato,Venta,0.75,1.0,1.0,1.0,Pedro,ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,David,Sin dato,Acrivo,0.9,1.0,1.0,0.0,Aurelio ,Nos visito el dia 27 de Mayo,Ya dejo todo para solicitud ,Realizo PDM en Emkoo,Recibio la atencion,Se asigna en la visita,Se fatucta a nombre de su mama 
+Antonio,Sin dato,Lia Vera,Sin dato,Venta,0.85,1.0,1.0,1.0,Victor ,Ya visito la agencia,ya tiene credito autorizado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Francisco Mier,Sin dato,Activo,0.7,1.0,0.0,0.0,Victor ,Ya visito la agencia,Sin respuesta,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Ricardo Pedraza Perez  ,Sin dato,Activo,0.9,1.0,1.0,1.0,Aurelio ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio/Saul ,Sin dato,Clementina ,Sin dato,Venta,0.85,1.0,1.0,1.0,Ricardo ,Lead de base de datos ,Ya ingreso y se autorizo,Si hubo PDM ,recibio la atencion ,Lead de base de datos ,Sin respuesta
+Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+JUNIO,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Saul ,Sin dato,Aldo Segura ,Sin dato,Finalizado ,0.8,1.0,1.0,0.0,Ricardo ,Nos visito el dia 03 de Mayo,Si hubo solicitud sin embargo salio rechazada,Si hay prueba de manejo ,Recibio la atenciao,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Vladimir,Sin dato,activo,0.7,1.0,0.0,0.0,Pedro,Ya visito la agencia,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio ,Sin dato,Daniel,Sin dato,Acitvo ,0.8,1.0,0.0,0.0,Sergio Raymundo,Ya visito la agencia Custom,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul,Sin dato,Francisco Santander ,Sin dato,Finalizado,0.9,1.0,0.0,0.0,Alan,Nos visito el dia 08 de junio ,Pretende compra de contado ,Realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Dulce Elizabeth ,Sin dato,Activo ,0.9,1.0,1.0,1.0,Pedro,Nos visito el dia viernes 13 de junio ,Ya esta en analisis ,Si hubo prueba de manejo,Recibio la atencion ,Se asgino hasta la visita en piso ,Sin respuesta
+Saul ,Sin dato,Fernando ,Sin dato,Venta ,0.9,1.0,1.0,1.0,Alan ,"Nos visito en plaza, ya deposito apartado ",Ya se esta trabajando ,En proceso,Recibio la atenciao,Se asigna por seguimiento,Sin respuesta
+Antonio,Sin dato,Sergio Figueroa,Sin dato,Venta ,0.85,1.0,1.0,1.0,Sergio Raymundo,Ya visito la agencia,ya esta aprobada,Ya realizo prueba de manejo,Recibio la atencion,Se reasigno por seguimiento,Sin respuesta
+Antonio,Sin dato,Osvaldo Peña ,Sin dato,Acitvo ,0.75,1.0,1.0,0.0,Ricardo ,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Aldo Perz ,Sin dato,Activo ,0.8,0.0,0.0,0.0,Mauricio ,Ya nos visito el dia sabado 14 de junio ,Ya tiene credito aprobado en dorada ,Ya realizo prueba de manejo,Recibio la atencios ,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,David ,Sin dato,Venta ,0.9,1.0,0.0,1.0,Pedro ,Ya nnos visito su esposa el dia 17 ,El esposo viene el viernes y nos deja papeles ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Manuel Portillo,Sin dato,Finalizado ,0.7,0.0,0.0,0.0,Gerencia ,Nos visito el dia 16 de junio,Ya hay solicitud de credito ,Si hubo prueba de manejo,Recibio la atenciao,Se asgino hasta la visita en piso ,Sin respuesta
+Antonio,Sin dato,Jaime Juarez,Sin dato,Acitvo ,0.05,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Pedro Jesus  Pestana Castillo ,Sin dato,Acitvo ,0.7,1.0,1.0,0.0,Victor ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Maximo Fernandez/Fabiana,Sin dato,Venta ,0.9,1.0,1.0,1.0,Pedro ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Anabell,Sin dato,Venta,0.9,1.0,1.0,1.0,Pedro,Lead de mes atras ,Ya esta en proceso,Ya se realizo prueba de manejo,Recibio la atenciao,Se asigna por que se conocio en plaza ,Sin respuesta
+Antonio,Sin dato,Benjamin/ Element empresa,Sin dato,Venta ,0.9,1.0,1.0,1.0,Alan,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Luis Carlos Gomez ,Sin dato,Activo,0.5,1.0,1.0,0.0,Marcos Coca,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Jesus Morales,Sin dato,Venta ,0.7,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Rossana ,Sin dato,Finalizado ,0.8,1.0,1.0,0.0,Miguel,Ya nos visito el dia 23 de Junio ,Ya esta pre-aprobado ,Ya realizo PDM,Recibio la atencion,Se asigna en la visita ,Injusticis
+Antonio ,Sin dato,Parmenides Ortiz,Sin dato,Acitvo ,0.7,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Miguel Angel,Sin dato,Acitvo ,0.7,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul,Sin dato,Jose Miguel,Sin dato,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya nos visito el dia 27 de junio,En proceso,Ya realizo la prueba de manejo ,Si recibio la atencion ,se asigno hasta la visita de piso ,Sin respuesta
+Antonio,Sin dato,Olivia rascon sosa,Sin dato,Acitvo ,0.6,1.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Mireya Eugenia Ceron,Sin dato,Acitvo ,0.6,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Arturo Alcantar,Sin dato,Acitvo ,0.7,1.0,1.0,0.0,Aurelio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Hugo,Sin dato,Activo ,0.6,0.0,0.0,0.0,Alan ,Ya nos visito el dia 30 de junio ,Ya esta en proceso ,Ya se realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin respuesta
+Sin dato,Sin dato,Julio,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Saul ,Sin dato,Hugo Martines ,Sin dato,Activo ,0.6,1.0,1.0,0,Alan,Ya nos visito el dia 01 de Juio,Esta en proceso por ensueño,Si realizo la prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Heriberto Solis Perez,Sin dato,Activo,0.6,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Julio Jimenez,Sin dato,Activo,0.7,1.0,1.0,1.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Edgar Corte ,Sin dato,Activo,0.7,0.0,0.0,0.0,Carlos Texis,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Grabiel Zamora ,Sin dato,Activo ,0.9,1.0,1.0,0.0,Mauricio ,Ya nos visito el dia 05/julio,Esta en proceso,Esta en proceso,Esta en proceso,Se  asigna en visita,Sin respuesta
+Saul ,Sin dato,Ivan ,Sin dato,Activo,0.8,0.0,0.0,0.0,Nos vista lunes 7,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Saul,Sin dato,Anthony,Sin dato,Activo,0.8,1.0,1.0,0.0,Nos visita el sabado 5,Ya nos visito ,Ya esta la solicitud ,Ya realizo la prueba de manejo ,Esta en proceso,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Ernesto Vega,Sin dato,Activo,0.8,1.0,1.0,1.0,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Hector Cortes ,Sin dato,Activo ,0.85,1.0,0.0,0.0,Alan Gonzalez,Ya nos visito,Esta en proceso, Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigna en la visita ,Sin respuesta
+Antonio,Sin dato,Gabriel,Sin dato,Activo,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Fausto,Sin dato,Activo ,0.8,1.0,1.0,0.0,Ricardo ,Ya nos visito el dia 11 de Julio ,Ya esta en proceso ,Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Javer Moreno,Sin dato,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Llego al cierre del dia,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul,Sin dato,Roberto Paz Rojano ,Sin dato,Activo,0.8,0.0,0.0,0.0,Aurelio ,Ya nos visito el dia 15 Julio ,Ya esta en proceso ,El cliente comenta que no queria manejar la unidad ,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Alfonso ,Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro Antonio ,Ya nos visito el dia 16 de julio ,Ya esta en proceso ,Si hubo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Antonio/Talia,Sin dato,Acitvo ,0.8,0.0,1.0,1.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Marisol Luna,Sin dato,Acitvo ,0.8,1.0,1.0,0.0,Aurelio ,Ya visito la agencia,Autorizada,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Erick ,Sin dato,Finalizado ,0.7,1.0,1.0,0.0,Aurelio ,Ya visito la agencia ,El credito fue rachazado ,realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita ,Sin respuesta
+Saul,Sin dato,Karla ,Sin dato,Activo ,0.8,0.0,0.0,0.0,Ignacio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita ,Sin respuesta
+Antonio,Sin dato,Jose Hermenegildo ,Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Jossmarr  Csm Gil ,Sin dato,Activo,0.9,1.0,1.0,1.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Guillermina ,Sin dato,Activo ,0.9,1.0,1.0,0.0,Victor ,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Lorenzo Coyotl ,Sin dato,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Patricia Rios,Sin dato,Activo,0.6,1.0,0.0,0.0,Pedro Antonio ,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Armando Alvarez Morales,Sin dato,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Juan Manuel Infante,Sin dato,Activo,0.85,1.0,1.0,0.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul,Sin dato,Gustavo Rojas Garcia,Sin dato,Activo ,0.8,1.0,1.0,0.0,Victor ,Ya visito la agencia,Si hay solicitud de credito ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul,Sin dato,Mauricio Garcia,Sin dato,Activo ,0.8,1.0,1.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Susana Morales Gutierrez,Sin dato,Activo,0.8,1.0,0.0,0.0,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Valerio Figueroa,Sin dato,Activo ,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Sr Martinez,Sin dato,Activo,0.8,1.0,0.0,0.0,Marcos coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,German Hernandez,Sin dato,Activo,0.6,1.0,0.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Saul ,Sin dato,Oscar,Sin dato,Activo,0.8,0.0,1.0,0.0,Daniel ,Ya visito la agencia,Ya esta en proceso,No habia Unidad Demo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Alvaro Vega Tobón,Sin dato,Activo,0.8,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Sin dato,Sin dato,Sin dato,Agosto,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Manolin Marin  ,Sin dato,Activo,0.8,1.0,0.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana ,Sin dato,Abraham Fernandez ,Sin dato,Activo,0.7,0.0,0.0,0.0,Mercedes,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Karina Madrid,Sin dato,Activo,0.8,1.0,0.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Iram Sanchez,Sin dato,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Gilberto,Sin dato,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Marta Gomez,Sin dato,Activo,0.6,1.0,0.0,0.0,Alan/Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Norma Cruz,Sin dato,Activo,0.7,1.0,0.0,0.0,Ricardo,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Ryan Pacheco ,Sin dato,Activo,0.9,1.0,1.0,1.0,Pedro,Ya visito la agencia ,Sin respuesta,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin respuesta
+Antonio,Sin dato,Miguel Edgar Ayllon,Sin dato,Activo,0.75,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Jesus Ramirez,Sin dato,Activo,0.7,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana ,Sin dato,Jose Frein Romero Vega ,Sin dato,Activo,0.7,0.0,0.0,0.0,Alan,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Javier Garcia ,Sin dato,Activo,0.7,1.0,0.0,0.0,Mauricio ,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Angelica Tejeda,Sin dato,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Ariel Macbeth Fierro Lima,Sin dato,Activo,0.75,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Robert Lopez,Sin dato,Activo,0.75,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Eduardo Solis,Sin dato,Activo,0.8,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Margarita Rodriguez,Sin dato,Finalizado,0.5,0.0,0.0,0.0,Alan,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jhonny Frost ,Sin dato,Activo,0.7,1.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Obed Garcia ,Sin dato,Activo,0.7,1.0,0.0,0.0,Alan,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Nazario Garcia,Sin dato,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Edson Jair,Sin dato,Activo,0.6,0.0,0.0,0.0,Victor,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Oscar Daniel Cuautli LÃÂÃÂÃ,Sin dato,Activo,0.7,0.0,0.0,0.0,Victor,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Ruben Quiroz ,Sin dato,Activo,0.7,1.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya este en proceso ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Hipolito Leandro Funes ,Sin dato,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Ruben Rafael Lozada ,Sin dato,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Fabi?n Zaldivar Arres ,Sin dato,Activo ,0.8,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Alejandro Sosa,Sin dato,Activo,0.5,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Evangelina Rojas Juarez ,Sin dato,Activo,0.8,1.0,1.0,0.0,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Curro,Sin dato,Activo,0.8,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Sin respuesta,Sin respuesta
+Ana,Sin dato,Gabino Arrieta ,Sin dato,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Sin respuesta,Sin respuesta
+Ana,Sin dato,Aldo Anzures Martinez,Sin dato,Activo,0.8,1.0,0.0,0.0,Ricardo,Ya visito la agencia ,Sin respuesta,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,antonio pavon garcia,Sin dato,Activo,0.5,0.0,0.0,0.0,Marcos,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Andres Felipe ,Sin dato,Activo,0.6,0.0,0.0,0.0,Marcos,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Elizabeth  Toledo ,Sin dato,Activo,0.8,1.0,0.0,0.0,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,JUAN ANTONIO CASTELAN SANTIAGO,Sin dato,Activo,0.8,1.0,0.0,0.0,VICTOR,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Luis Angel Ramos,Sin dato,Activo,0.6,1.0,0.0,0.0,Jeamy Custom,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana ,Sin dato,Julia María Navarrete Carreño,Sin dato,Activo ,0.8,1.0,0.0,0.0,Marcos,Ya visito  la agencia ,Sin respuesta,Ya realizo prueba de manejo ,Recibio la atencion,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Ozair Viveros,Sin dato,Activo,0.8,1.0,0.0,0.0,VICTOR,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Yaimy  Guiterrez ,Sin dato,Activo,0.5,0.0,0.0,0.0,VICTOR,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Orlando Delgado ,Sin dato,Activo,0.5,1.0,0.0,0.0,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Rodrigo.e.jim,Sin dato,Activo,0.5,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,"Gabriel  Franco , Vazquez",Sin dato,Activo,0.6,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Marisol Luna  Angeles,Sin dato,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,"Marcos Benjamin Oviedo, Moreno",Sin dato,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Fernando Pacheco ,Sin dato,Activo,0.6,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+SEPTIEMBRE,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Johann Arevalo Zaragoza,Sin dato,Activo,0.6,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Alejandro Valentin,Sin dato,Activo,0.6,0.0,0.0,0.0,Alan,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,"Maria  Dolores , Rueda ",Sin dato,Activo,0.6,0.0,0.0,0.0,Ignacio,Videollamada,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Nahum Montiel,Sin dato,Activo,0.5,0.0,0.0,0.0,Alan,Videollamada,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Juan,Sin dato,Activo,0.6,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Comercializadora   Y Distribuidora,Sin dato,Activo,0.8,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Juan Aguilar Moreno ,Sin dato,Activo,0.6,0.0,0.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jorge Luis,Sin dato,Activo,0.7,0.0,0.0,0.0,Mercedes,Videollamada,Ya esta en proceso,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Ricardo,Sin dato,Activo,0.6,0.0,0.0,0.0,Mercedes,Ya visita la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Miguel Angel Cuenca Perez,Sin dato,Activo,0.8,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Eloy Perez Gracia,Sin dato,Activo,0.8,1.0,0.0,0.0,Alan,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Oscar Campech,Sin dato,Activo,0.6,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Levy Carrillo,Sin dato,Activo,0.8,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Sin respuesta,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita3,Sin respuesta
+Antonio,Sin dato,Monserrat Vivar Garcia,Sin dato,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Sin respuesta,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,Erwin Castaneda  ,Sin dato,Activo,0.7,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Adriel Zenteno,Sin dato,Activo,0.7,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Mary Luz Carrillo Eliosa,Sin dato,Sin dato,0.7,1.0,0.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Sergio   Contreras ,Sin dato,Activo,0.6,0.0,0.0,0.0,Maurico,Videollamada,Ya esta en proceso ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Alejandro Huerta Fuentes,Sin dato,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Felipe Sanchez/sigmundo,Sin dato,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Salvador Flores,Sin dato,Activo,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Antonio,Sin dato,Marco Antonio  Altamirano Conde ,Sin dato,Activo,0.8,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana ,Sin dato,Josue  Heron  Lopez,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Yoni Maravilla,Sin dato,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,German Leon Sanchez,Sin dato,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana ,Sin dato,Eddie Fb ,Sin dato,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,ISACHIFT117,Sin dato,Activo,0.7,0.0,1.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Gaviota Alvarez,Sin dato,Activo,0.8,0.0,1.0,0.0,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Carlos Leonel  Bautista  ,Sin dato,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Marcos  Maldonado ,Sin dato,Activo,0.6,0.0,1.0,0.0,Julio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,"Edmon   Abdala ,  ",Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana ,Sin dato,Antelmo Flores Guevara,Sin dato,Activo,0.8,0.0,0.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Jose Eduardo Alonso ,Sin dato,Activo,0.6,0.0,1.0,0.0,Aurelio ,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Omar Aguilar Teyssier,Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana ,Sin dato,Sarai Ruiz,Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana ,Sin dato,Jesus Colorado,Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana ,Sin dato,"Juan Manuel Mendoza, Hernandez",Sin dato,Activo,0.8,0.0,1.0,0.0,Julio,Ya visito la agencia ,Ya esta en proceso ,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Martha Fernanda Garcia,Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Clau,Sin dato,Activo,0.5,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Javier Garcia Amaya,Sin dato,Activo,0.6,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana,Sin dato,"Joaquin Rodrigo Arias, Rios",Sin dato,Activo,0.5,1.0,0.0,0.0,Julio,Ya visito la agencia ,Sin respuesta,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Sin respuesta
+Ana ,Sin dato,Jesus Monreal,Sin dato,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin respuesta
+Ana,Sin dato,Carlos Rodriguez Perez Rodr?guez P?rez ,Sin dato,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin respuesta
+Ana ,Sin dato,Julio Cesar Vega ,Sin dato,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso ,Sin respuesta,Recibio la atencion ,Se asigna en la visita ,Sin respuesta
+Ana,Sin dato,Ivan Garcia,Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Sin respuesta
+Antonio,Sin dato,Jose De Jesus  Perez,Sin dato,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Ricardo  Arenas,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,"Miguel  Irigoyen, ",Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Rene Angel Bellizzi ,Sin dato,Activo,0.8,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Laura Ivonne Martinez ,Sin dato,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Alejandro Olivares,Sin dato,Activo,0.6,0.0,1.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Felipe  Tepale,Sin dato,Activo,0.8,0.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Juan Carlos Miguel ,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso ,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Jesus Manuel  Rios,Sin dato,Activo,0.6,0.0,1.0,0.0,Mauricio ,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Nicolas Contreras,Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+ana,Sin dato,"Jose De Jesus  Perez , ",Sin dato,Activo,0.8,1.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,"Jose Miguel  Cosme, Martinez",Sin dato,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Juan Aguilar Moreno ,Sin dato,Activo,0.8,0.0,1.0,0.0,Mercedes,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Adriel Zenteno ,Sin dato,Activo,0.8,0.0,0.0,0.0,Ana,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Jose Eduardo Toriz Bustos ,Sin dato,Activo,0.8,1.0,0.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,VANNESSA LIZETTE PEREZ CARRANZA,Sin dato,Activo,0.7,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Juan  Lopez Cruz ,Sin dato,Activo,0.8,0.0,0.0,0.0,Ricardo,Ya visito la agencia ,Ya esta en proceso ,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,NADIA LOPEZ GABRIEL,Sin dato,Activo,0.8,0.0,0.0,1.0,Mauricio,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+OCTUBRE,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,"Sixto Tito  Guzman, Varela",Sin dato,Activo,0.8,1.0,1.0,0.0,Jhosslan,Ya visit la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Rogelio Hernandez,Sin dato,Activo,0.95,1.0,1.0,1.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Juan Francisco Olvera Alarcon,Sin dato,Ativo,0.7,0.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Gonzalo Chavez,Sin dato,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Jesus Gilbert  Cano ,Sin dato,Activo,0.6,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Eliseo Huerta,Sin dato,Activo,0.7,1.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Javier  Reyes,Sin dato,Activo,0.8,0.0,1.0,0.0,Jhosslan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Joaquin Moreno,Sin dato,Activo,0.8,0.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana ,Sin dato,Jose  Luis   Salazar  ,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Jose Luis Pelcastre,Sin dato,Activo,0.75,1.0,1.0,0.0,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Jennifer,Sin dato,Activo,0.6,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Enrique  Enrique  Herrera,Sin dato,Activo,0.7,0.0,0.0,0.0,Julio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Ivan Emilio,Sin dato,Activo,0.85,0.0,1.0,0.0,Antonio,Ya visito la agencia ,Ya esta en proceso ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jose Abraham Zamora Arenas,Sin dato,Activo,0.8,0.0,1.0,0.0,Ricardo,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Gustavo Rojas Garcia,Sin dato,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana ,Sin dato,Carmen  Ortega ,Sin dato,Activo,0.8,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Sin respuesta,Sin respuesta
+Ana,Sin dato,Raul Delgado,Sin dato,Activo,0.7,1.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Adan Fuentes ,Sin dato,Activo,0.85,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Jose Reyes,Sin dato,Activo,0.7,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo ,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Humberto Maldonado Garcia,Sin dato,Activo,0.65,1.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Antonio,Sin dato,Miguel Vasquez San Pablo ,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Carolina Ortega,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Alejandro Vivas,Sin dato,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,Jose Manuel Martinez Rodriguez,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Juan mercado González,Sin dato,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Martin Magdaleno  Rodriguez ,Sin dato,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Christian Capetillo,Sin dato,Activo,0.8,0.0,1.0,1.0,Omar,Ya visito la agencia,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Jose Manuel Morales Gomez,Sin dato,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia ,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,Orlando  Cuahutle,Sin dato,Activo,0.8,0.0,1.0,0.0,Julio,Ya visito la agencia,Ya esta en proceso,Sin respuesta,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Joselin Ramirez  Escobar,Sin dato,Activo,0.7,0.0,1.0,0.0,Alan,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Rafael Davila,Sin dato,Activo,0.65,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Felix Luna Baleon,Sin dato,Activo,0.8,0.0,1.0,0.0,Jhoslan,Ya visito la agencia,Ya esta en proceso,Sin respuesta,Recibio la atencion,Sin respuesta,Sin respuesta
+Ana,Sin dato,Luis Munoz ,Sin dato,Activo ,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Monserrat Torres,Sin dato,Activo,0.6,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Alberto Acocal ,Sin dato,Activo,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Diego Martinez,Sin dato,Activo,0.9,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Cesar Cabrera Ortega ,Sin dato,Activo,0.7,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Diana  Hernandez ,Sin dato,Activo,0.8,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Francisco  Mier ,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,Margarita Diaz Garcia ,Sin dato,Activo,0.8,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Teresa Guadalupe  Guillen Venegas,Sin dato,Activo,0.75,0.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Adair Lopez,Sin dato,Activo,0.6,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Jairo Samuel  Pineda Velasquez,Sin dato,Activo,0.7,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,"Miriam Lizbeth Ruiz, Zamudio",Sin dato,Activo,0.85,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Imelda  Valencia  Sanchez,Sin dato,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,"Luis  Jorge , ",Sin dato,Activo,0.8,0.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,Waldo Pichon ,Sin dato,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Taide Cordoba, Sandoval",Sin dato,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,"Sandi  Hernandez , ",Sin dato,Activo,0.85,0.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Adriana  Zarate, Apolinar",Sin dato,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Victor  Lorenzana ,Sin dato,Activo,0.65,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,"Antonio Ojeda  , ",Sin dato,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Mario Alberto Medrano Mayo,Sin dato,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Antonio De Jesus Lima Hernandez,Sin dato,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,"Antonio  Lopez, ",Sin dato,Activo,0.8,0.0,1.0,1.0,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,"Todoro Lopez, ",Sin dato,Activo,0.7,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Martin Vazquez  , ",Sin dato,Activo,0.65,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,"Israel Chavez  , ",Sin dato,Activo,0.8,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Rocio Lopez Mesa,Sin dato,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+NOVIEMBRE,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Alexis  Palestina ,Sin dato,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Vanessa  Maza ,Sin dato,Activo,0.8,1.0,1.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,"Hugo Jorge  , ",Sin dato,Activo,0.7,1.0,1.0,1.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,"David  Torres , Ramirez ",Sin dato,Activo,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Yasmin Galindo ,Sin dato,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Ricardo  Martinez Tepox ,Sin dato,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Ari  Valero ,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Sin respuesta
+Ana,Sin dato,Guadalupe Hernandez ,Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Humberto Calixto,Sin dato,Activo ,0.8,1.0,1.0,0.0,Aurelio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Isidro Ramos,Sin dato,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Jose Alberto ,Sin dato,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Andrea Hernandez Reyes,Sin dato,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Manuel Rodriguez ,Sin dato,Activo,0.8,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,José Iván Sánchez Pérez,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Octavio Arvea,Sin dato,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Mario Negrete Juarez ,Sin dato,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Juan Gonzales ,Sin dato,Activo,0.7,0.0,1.0,0.0,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Marcial   Sanchez   ,Sin dato,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jesus Ivan Ibarra Robles,Sin dato,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Juan Antonio  Cid  Reynoso  ,Sin dato,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Cesar Cabrera Ortega ,Sin dato,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jose De Jesus  Franco Saldana ,Sin dato,Activo,0.7,0.0,0.0,0.0,Ricardo ,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jose C Tecnom ,Sin dato,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Rene Beguerisse Torres,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Jose Ramon Marquez,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Ramsey Tecnom,Sin dato,Activo,0.6,0.0,0.0,0.0,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Jorge Ariza,Sin dato,Activo,0.9,1.0,1.0,0.0,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Manuel  Vinaz, ",Sin dato,Activo,0.9,1.0,1.0,0.0,Omar,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Efrain Zamudio ,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Rivera Castillo,Sin dato,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Alan Quintero Munive,Sin dato,Activo,0.7,0.0,1.0,0.0,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Omar Garcia Vazquez,Sin dato,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia ,Sin respuesta,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,Victor Arrroyo Tecnom,Sin dato,Activo ,0.7,1.0,0.0,0.0,Pedro,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Hugo Jirge Regalado Castaneda,Sin dato,Activo,0.6,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Arizbeck  Ortiz, ",Sin dato,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"David  Torres , Ramirez ",Sin dato,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Vanessa  Maza ,Sin dato,Activo,0.8,0.0,0.0,1.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Hugo Jirge Regalado  Castaneda ,Sin dato,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,"Jean  Simoni, ",Sin dato,Activo,0.7,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Gustavo Rojas ,Sin dato,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Rafael  Chocolatl, Cervantes",Sin dato,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Dionisio Arce, Martinez",Sin dato,Activo,0.8,0.0,0.0,0.0,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Mauel  Ramirez ,Sin dato,Activo ,0.7,0.0,1.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Roberto Carlos Parra, Castelan",Sin dato,Activo,0.7,1.0,1.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Jose Luis Martinez,Sin dato,Activo,0.7,0.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,"Oscar  Arroyo, ",Sin dato,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,"Hector Alejandro Gonzalez Tapia  , ",Sin dato,Activo,0.7,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Cristian Ocampo ,Sin dato,Activo,0.7,1.0,1.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Gloria Elena  Benavides, ",Sin dato,Activo,0.8,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Efrain Zamudio ,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Carolina  Ortega ,Sin dato,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,"Hector Miguel  Fernandez , ",Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+DICIEMBRE,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Sr. Elvis fb,Sin dato,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Magdaleno,Sin dato,Activo,0.8,0.0,1.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,Cerezo Honorato,Sin dato,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,Laura Garcia,Sin dato,Activo,0.7,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Sr. Francisco Cianca,Sin dato,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Jose De Jesus Perez Hernandez,Sin dato,Activo,0.8,0.0,0.0,0.0,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jose Abraham,Sin dato,Activo,0.8,1.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Jose Luis Rojas Aguilar,Sin dato,Activo,0.8,1.0,0.0,0.0,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,"Sr. Roberto Loeza
+",Sin dato,Activo,0.6,0.0,1.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Ale Arellano,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Eugenio De Las Heras B,Sin dato,Activo,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Francisco/Maria del Sol,Sin dato,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Filiberto González Guarneros,Sin dato,Activo,0.8,0.0,1.0,0.0,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Jose Alberto,Sin dato,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Luciano Valdès,Sin dato,Activo,0.8,1.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Agustin,Sin dato,Activo,0.7,1.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato, MIGUEL SANTAMARIA MORALES,Sin dato,Activo,0.9,1.0,0.0,0.0,Cesar ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jose Luis Guevara,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Dario Castillo,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Sixto Tito,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Antonio Sanchez,Sin dato,Activo,0.8,1.0,0.0,0.0,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,Marco Antonio,Sin dato,Activo,0.08,0.0,0.0,0.0,Julio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Andy,Sin dato,Activo,0.8,1.0,0.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Hugo,Sin dato,Activo,0.8,1.0,0.0,0.0,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Vicente Acosta,Sin dato,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Luis Lopez,Sin dato,Activo,0.7,0.0,0.0,0.0,Pedro,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Lalo Diaz,Sin dato,Activo,0.9,1.0,1.0,0.0,Victor,Ya visito la agencia                              ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Julián García,Sin dato,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Rigoberto Salazar,Sin dato,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Rodriguez Perslta,Sin dato,Activo,0.7,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Diana Paola Cervantes Márquez,Sin dato,Activo,0.7,0.0,1.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Mahe Aguilar,Sin dato,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana ,Sin dato,Eliut t,Sin dato,Activo,0.8,1.0,0.0,0.0,Julio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Edward T,Sin dato,Activo,0.7,0.0,1.0,0.0,Julio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Mtro Milton,Sin dato,Activo,0.7,0.0,0.0,0.0,Cesar,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,"Maria Elena  Sanchez , Perez ",Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Oscar Bautista,Sin dato,Activo,0.6,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Adrian Paadilla,Sin dato,Activo,0.7,1.0,0.0,0.0,Ricardo,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Gregorio Roldan Garcia,Sin dato,Activo,0.7,0.0,0.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Manuel Baltazar,Sin dato,Activo,0.7,0.0,1.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Carlos Mungia,Sin dato,Activo,0.8,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Edith Gonzalez,Sin dato,Activo,0.7,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Guillermo Canto,Sin dato,Activo,0.7,0.0,0.0,0.0,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Gabriel Meza,Sin dato,Activo,0.7,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Jose Miguel,Sin dato,Activo,0.7,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Carlos Ignacio,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Carlos,Sin dato,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+2026-01-01 00:00:00,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Miguel Ramirez,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Marcela Ramírez,Sin dato,Activo,0.7,0.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Rafael Lopez,Sin dato,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Irma Juarez,Sin dato,Activo,0.7,0.0,0.0,0.0,Elizabeth,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Jimmy T,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Misael  Rodriguez ,Sin dato,Activo,0.7,0.0,0.0,0.0,Ignacio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,"Cesar  C ,  ",Sin dato,Activo,0.9,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Mireya,Sin dato,Activo,0.9,1.0,1.0,1.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Liliana Alvarez,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Rodrigo P,Sin dato,Activo,0.9,0.0,0.0,0.0,Carlos Mejia/ pachuca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Alfonso Ibañez Olmos,Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Guillermo Hernandez,Sin dato,Activo,0.8,0.0,0.0,0.0,Nanacy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Roman Aguilar,Sin dato,Activo,0.6,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,NATANAEL OLVERA San Pablo,Sin dato,Activo,0.7,1.0,1.0,0.0,Victor,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Lau T,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jose Luis Dominguez,Sin dato,Activo,0.8,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Juan FLores,Sin dato,Activo,0.7,0.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Omar  Cuautle,Sin dato,Activo,0.6,0.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Luis Angel l Rojas Lecona,Sin dato,Activo,0.7,0.0,0.0,0.0,Cesar,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Joe Carrera,Sin dato,Activo,0.8,0.0,0.0,0.0,Julio Cesar,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,ana CAROLINA CAMPO,Sin dato,Activo,0.8,1.0,1.0,0.0,Ricardo,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Sadrac  Acostha ,Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Ricardo,Sin dato,Activo,0.7,0.0,0.0,0.0,Julio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Alejandra Martinez,Sin dato,Activo,0.9,0.0,0.0,0.0,Alan,FORANEA VERACRUZ,Ya esta en proceso,FORANEA VERACRUZ,FORANEA VERACRUZ,Se asigno por SC,Sin respuesta
+Antonio,Sin dato,Ericka Huerta Viveros,Sin dato,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,Sin respuesta
+Antonio,Sin dato,EDGAR ARCOS,Sin dato,Activo,0.7,0.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,Sin respuesta
+Antonio,Sin dato,Julio Guzmán,Sin dato,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,Sin respuesta
+Ana,Sin dato,Sadrac Acosta,Sin dato,Activo,0.6,0.0,0.0,0.0,Pedro,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Darth V,Sin dato,Activo,0.6,0.0,1.0,0.0,Pedro,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,JUAN VALDEZ,Sin dato,Activo,0.7,1.0,0.0,0.0,Alan,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Lidio Sandoval Vazquez,Sin dato,Activo,0.6,0.0,0.0,0.0,Sin dato,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Julio Cesar,Sin dato,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,Sin respuesta
+Ana,Sin dato,Luis Aldana,Sin dato,Activo,0.8,1.0,0.0,0.0,Carlos Mejia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,CARLOS ERNESTO PAREDES,Sin dato,Activo,0.8,1.0,0.0,0.0,Julio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Demetrio  Zamara,Sin dato,Activo,0.8,1.0,1.0,0.0,Mauricio,Ya visito la agencua,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Roberto De Jesus Lopez,Sin dato,Activo,0.7,0.0,0.0,0.0,Alan,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+2026-02-01 00:00:00,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Sergio Cebada,Sin dato,Activo,0.8,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Orlando Peralta,Sin dato,Activo,0.8,1.0,0.0,0.0,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,jose angel varela,Sin dato,Activo,0.8,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,ANA MARIA NIETO,Sin dato,Activo,0.8,0.0,1.0,0.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Nitzel Zempoaltecatl,Sin dato,Activo,0.9,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Sergio ortega,Sin dato,Activo,0.9,1.0,1.0,1.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Ramón Antonio,Sin dato,Activo,0.6,1.0,1.0,1.0,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Cuautemoc Paramo Prado,Sin dato,Activo,0.6,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Josafat Cuapio,Sin dato,Activo,0.7,0.0,1.0,0.0,Sin dato,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Gilberto Fr,Sin dato,Activo,0.6,0.0,0.0,0.0,Carlos Hernandez,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Sergio Gonzalez,Sin dato,Activo,0.8,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Adolfo Aguilar,Sin dato,Activo,0.7,0.0,0.0,0.0,Victor,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Antonio De Jesús Lima Hernández,Sin dato,Activo,0.6,0.0,1.0,0.0,Mauricio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Cesar M,Sin dato,Activo,0.7,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Martín Vázquez,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Pimentel Eleuterio,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Cesar Pestaña,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Frida T,Sin dato,Activo,0.9,1.0,1.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Alicia Avila,Sin dato,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Carlos Lozano Ramos,Sin dato,Activo,0.7,1.0,0.0,0.0,Julio ,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,MA ELENA ISABEL LEAN BURGOS-,Sin dato,Activo ,1.0,1.0,1.0,0.0,AURELIO,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Miguel Galindo Aburto,Sin dato,Activo,0.8,0.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Omar Reyes,Sin dato,Activo,0.75,1.0,0.0,0.0,Julio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Fernando Tellez,Sin dato,Activo,0.6,0.0,0.0,0.0,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Rey Hernandez,Sin dato,Antonio,0.7,0.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Bety Herrera,Sin dato,Activo,0.7,0.0,0.0,0.0,Carlos Hdz,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Miguel Grande,Sin dato,Activo,0.6,1.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Israel Hernández Pérez,Sin dato,Activo ,0.6,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,JOSE LUIS LOYA,Sin dato,Activo,0.7,1.0,0.0,0.0,Victor,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Brian Michel Villegas,Sin dato,Activo,0.7,1.0,0.0,0.0,Alan,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Hugo Velazquez,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio,Videollamada,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Karen,Sin dato,Activo,0.6,1.0,0.0,0.0,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+2026-03-01 00:00:00,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Rene Osorno,Sin dato,Activo,0.6,1.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Jose Carlos Hernandez,Sin dato,Activo,0.8,1.0,0.0,0.0,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Oscar Ezpinoza,Sin dato,Activo ,0.6,1.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Cesar Chavez,Sin dato,Activo,0.8,1.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Miguel Angel Ramirez Avalos,Sin dato,Activo,0.7,1.0,0.0,0.0,Aurelio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Ana Paola,Sin dato,Activo ,0.8,1.0,1.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Jack Joaquín Sabina Zárate Juárez,Sin dato,Activo,0.7,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Adrian Cristobal,Sin dato,Activo ,0.7,0.0,1.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,PRE HOGAR,Sin dato,Activo,0.7,1.0,0.0,1.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Maura Gonzalez,Sin dato,Activo ,0.6,1.0,0.0,0.0,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Carlos Nava,Sin dato,Activo ,0.7,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Luis arturo chora lara,Sin dato,Activo ,0.7,1.0,0.0,0.0,Julio Cesar,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jose Isidro,Sin dato,Activo ,0.7,1.0,0.0,0.0,Julio Cesar,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Sergio,Sin dato,Activio,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Athalia,Sin dato,Activo ,0.9,0.0,0.0,1.0,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Alfonso Ramirez,Sin dato,Activo,0.8,1.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+2026-04-01 00:00:00,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Carlos León,Sin dato,Activo ,0.7,0.0,0.0,0.0,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Jesus P,Sin dato,Activo,0.8,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,JUAN DE DIOS NAVARRETE MENDEZ,Sin dato,Activo,0.7,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Anyvia Jazmín Cruz Mendoza,Sin dato,Activo,0.7,0.0,0.0,0.0,Carlos Mejia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,Christofer,Sin dato,Activo,0.65,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Simon Vega Aquiahuatl,Sin dato,Activo,0.7,0.0,1.0,0.0,Vanny,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,HECTOR JIMÉNEZ ALDAY,Sin dato,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jhonathan Bravo,Sin dato,Activo,0.8,1.0,0.0,0.0,Maurico,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Cristobal,Sin dato,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Antonio,Sin dato,MARÍA DEL CARMEN GRADOS,Sin dato,Activo,0.6,0.0,0.0,0.0,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Alejandro Cruz Adabache,Sin dato,Activo,0.8,0.0,0.0,0.0,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Juan José castellon,Sin dato,Activo,0.8,0.0,0.0,0.0,Ivan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Antonio,Sin dato,Dianarely Marquez,Sin dato,Activo,0.6,0.0,0.0,0.0,Mauricio,SC,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin respuesta
+Ana,Sin dato,Dr Julio Cesar,Sin dato,Activo,0.7,0.0,0.0,0.0,Vanny,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,David Omar Damián González,Sin dato,Activo,0.8,0.0,0.0,0.0,Victor,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Arturo Delgado García,Sin dato,Activo,0.5,0.0,0.0,0.0,Victor,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Mario Moreno,Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Victor Luciano Huerta Acosta Huerta,Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Roberto Aguilar,Sin dato,Activo,0.7,0.0,0.0,0.0,Julio ,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Rulo Vera,Sin dato,Activo,0.7,1.0,0.0,0.0,Nayeli,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Rafael Cázares,Sin dato,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Antonio Escalona ,Sin dato,Activo ,0.5,1.0,1.0,0.0,Pedro Gonzalez ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Martin Ortuño ,Sin dato,Activo ,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Salvador Jasso ,Sin dato,Activo ,0.3,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,depende del padres ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Luis Pelcastre ,Sin dato,Activo,0.3,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Santa Garcia ,Sin dato,Activo,0.5,1.0,1.0,0.0,Carlos Hernandez ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Gamaliel Vega ,Sin dato,Activo,0.5,1.0,1.0,1.0,Pedro ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Victor Hugo Narvaez,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,EDGAR SILES,Sin dato,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,JAIRO ROJAS,Sin dato,Activo,0.7,0.0,0.0,0.0,Pedro ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Carlos Perez,Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Arnold perales,Sin dato,Activo,0.7,0.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Said Azpeitia Blanco,Sin dato,Activo-,0.7,0.0,0.0,0.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Ricardo Gutierrez,Sin dato,Activo-,0.8,1.0,0.0,1.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Jorge de gante,Sin dato,Activo-,0.8,1.0,1.0,0.0,Pedro ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Javier Aguilar ,Sin dato,Activo-,0.8,0.0,0.0,0.0,Pedro ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Marco Antonio Valencia ,Sin dato,Activo-,0.7,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Igancio ,Sin dato,Rocio Cortes ,Sin dato,Activo-,0.5,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Armando Uribe Torres,Sin dato,Activo,0.8,1.0,0.0,0.0,Carlos Mejia,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Elias Dias Salgado ,Sin dato,Activo ,0.5,1.0,1.0,0.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,andres Domínguez,Sin dato,Activo,0.6,1.0,0.0,0.0,Fatima,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Rafael Sanchez,Sin dato,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Carlos Herrera,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Daniel Morales Hernández,Sin dato,Activo,0.7,1.0,0.0,0.0,Julio Cesar,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jehu Rodriguez,Sin dato,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visto la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Juan Pablo Castellanos ,Sin dato,Activo,0.7,0.0,0.0,0.0,Victor Sanchez ,Ya visto la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Pablo Archundia López,Sin dato,Activo,0.7,1.0,0.0,0.0,Mauricio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,JOSE LUIS,Sin dato,Activo,0.7,0.0,0.0,0.0,Mauricio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Alejandro Tapia Rueda,Sin dato,Activo,0.7,0.0,0.0,0.0,Carlos,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Angel Perez,Sin dato,Activo,0.8,0.0,0.0,0.0,Vanny,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Julio Lopez,Sin dato,Activo,0.5,1.0,0.0,0.0,Pedro Gonzalez,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Miguel Antonio Fernandez,Sin dato,Activo,0.7,0.0,0.0,0.0,Nayeli,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Alejandro Sanchez,Sin dato,Activo,0.3,0.0,0.0,0.0,Julio Cesar,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Cesar Palafox,Sin dato,Activo,0.3,0.0,0.0,0.0,Vanny,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,HUGO BADILLO,Sin dato,Activo,0.5,0.0,0.0,0.0,Alvaro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Sin dato,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+2026-05-01 00:00:00,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Alan Guerrero ,Sin dato,Activo,0.8,1.0,0.0,0.0,Mauricio ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Larrisa Oidor ,Sin dato,Sin dato,0.8,0.0,1.0,0.0,Mauricio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Jorge Duran ,Sin dato,Activo ,0.8,0.0,0.0,0.0,Pedro ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Hector Reyes ,Sin dato,Sin dato,0.8,1.0,1.0,0.0,Pedro ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Leo Rodríguez,Sin dato,Activo,0.8,0.0,0.0,0.0,Mauricio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Neftali Lima Sanchez,Sin dato,Activo,0.8,0.0,0.0,0.0,Julio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Igancio ,Sin dato,Alhdair Bonifacio Ramos ,Sin dato,Activo ,0.8,0.0,0.0,0.0,Victor ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Igancio ,Sin dato,Gary Hernandez ,Sin dato,Activo ,0.8,0.0,0.0,0.0,Vanny ,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Edgar Alejandro,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Ya visito la agencia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Celestino Olivares Flores,Sin dato,Activo,0.8,1.0,1.0,0.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Margarita Martìnez Mirand,Sin dato,Activo,0.8,0.0,1.0,0.0,Mauricio,Ya visito la agencia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Armando Uribe Torres-,Sin dato,Activo,0.8,0.0,0.0,0.0,Fatima,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jose F,Sin dato,Activo,0.8,1.0,0.0,0.0,Julio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jesus Flores sanchez,Sin dato,Activo,0.8,1.0,0.0,0.0,Pedrp,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,JOSE IGNACIO,Sin dato,Activo,0.8,1.0,0.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Fernando Duran ,Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Guillermo Benavides ,Sin dato,activo,0.8,1.0,1.0,0.0,Pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Hugo Franco ,Sin dato,activo,0.8,1.0,0.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Luis Enrique Palomares ,Sin dato,Activo,0.8,0.0,0.0,0.0,Aurelio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Edgar Alejandro,Sin dato,Activo,0.8,1.0,1.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Eduardo Apodaca Espinosa,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Marco xs,Sin dato,Activo,0.8,1.0,0.0,0.0,Julio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,JOSE SANCHEZ,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Roberto Garcia ,Sin dato,Activo,0.8,0.0,1.0,0.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Gustavo Melendez,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Ruben Lopez ,Sin dato,Activo,0.8,1.0,1.0,0.0,Mario ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Jaime trejo ,Sin dato,Activo ,0.7,1.0,1.0,0.0,Pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Igancio ,Sin dato,Alma Sanchez ,Sin dato,Activo ,0.8,0.0,0.0,0.0,Pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Carlos Cervantes ,Sin dato,Activo ,0.8,0.0,0.0,0.0,Mauricio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Santa Garcia ,Sin dato,Activo ,1.0,1.0,1.0,1.0,Carlos ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Raul Miranda ,Sin dato,Activo ,1.0,0.0,1.0,1.0,Mauricio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Juan Manuel Hernández,Sin dato,Activo,0.8,1.0,0.0,0.0,Fatima,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Ramon Castro Vite,Sin dato,Activo,0.8,1.0,1.0,0.0,Fatima,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Ernesto Pachuca,Sin dato,Activo,0.8,0.0,1.0,0.0,Carlos Mejia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Adalyn montiel morales,Sin dato,Activo,0.8,1.0,0.0,0.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,EVERT VALVERDE JIMENEZ,Sin dato,Activo,0.8,1.0,0.0,0.0,Mario,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Benjamin Sanchez,Sin dato,Activo,0.8,1.0,1.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Quiroz Daniel,Sin dato,Activo,0.8,1.0,0.0,0.0,Mauricio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Armando Briones ,Sin dato,Activo ,0.5,0.0,1.0,0.0,Pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Salomon Sanchyez,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Vanny,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Adriana F,Sin dato,Activo,0.8,1.0,0.0,0.0,Carlos Mejia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Angel Romo,Sin dato,Sin dato,0.8,1.0,0.0,0.0,Vanny,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Juan Carlos Carreto ,Sin dato,Sin dato,0.5,0.0,1.0,0.0,pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Alberto SR,Sin dato,Sin dato,0.5,0.0,1.0,0.0,Pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Sebastian F,Sin dato,Sin dato,0.8,1.0,0.0,0.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jorge G,Sin dato,Sin dato,0.8,1.0,1.0,0.0,Victor,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Fernando Zárate ,Sin dato,Activo ,0.7,1.0,1.0,0.0,Victor ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Igancio ,Sin dato,Karla Marquez ,Sin dato,Activo ,0.7,0.0,0.0,0.0,Pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,ansony f,Sin dato,Activo,0.7,1.0,0.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Jorge A Quiroz,Sin dato,Activo,0.7,1.0,0.0,0.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Michel Taja ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Aurelio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Jairo Rodriguez ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Victro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Arturo Lopez ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,Sin dato,Yolanda Castellanos ,Sin dato,Activo ,1.0,0.0,1.0,1.0,Victor ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,Sin dato,Juan Roque,Sin dato,Activo ,1.0,1.0,1.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Igancio ,Sin dato,Maria guadalupe Serrano ,Sin dato,Activo ,1.0,0.0,0.0,1.0,Victor ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,MARCO ANTONIO CHARTUNI,Sin dato,Activo,0.8,0.0,1.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Alexey ,Sin dato,Activo ,1.0,1.0,1.0,0.0,Ana,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,Sin dato,Brenda Lucero,Sin dato,Activo ,1.0,1.0,1.0,0.0,VICTOR,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+2026-06-01 00:00:00,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-01,Francisco Cacho ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Mario ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-01,Guillermo Hernandez ,Sin dato,Activo ,0.5,1.0,0.0,0.0,Pedro Antonio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-02,Roberto Quintana ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Nayeli ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-03,Karla Marquez ,Sin dato,Activo ,1.0,0.0,0.0,1.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,2026-06-01,Javier Juarez Solano,Sin dato,Activo,0.7,1.0,0.0,0.0,Vanny,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-03,Ommar Herrera,Sin dato,Activo,0.8,1.0,0.0,0.0,Carlos mejia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-04,Andres Cuevas,Sin dato,Activo,0.6,0.0,0.0,0.0,Carlos Mejia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-05,Fernanda Lopez,Sin dato,Activo,0.8,1.0,1.0,0.0,Ignacio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-02,Jose,Sin dato,Activo,0.8,0.0,0.0,0.0,Llamada,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio,2026-06-06,Gregorio Tlapanco ,Sin dato,Activo ,0.8,0.0,0.0,0.0,Mario Varela,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-12,Ivan Bravo ,Sin dato,Activo ,0.5,1.0,1.0,1.0,Mario Varela ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-12,Angelica Briones ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Julio Cesar ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-12,Juan Alberto Vargas ,Sin dato,Activo ,0.5,1.0,0.0,0.0,Mario Varela ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-17,Moises ,Sin dato,Activo,0.7,1.0,0.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-10,LUIS CASTILLO,Sin dato,Activo,0.5,0.0,0.0,0.0,Fer,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-12,Eder Hernandez,Sin dato,Activo,0.7,0.0,0.0,0.0,Fatima,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-13,Alberto Madrigal,Sin dato,Activo,0.6,0.0,0.0,0.0,Pedro Antonio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-06,Jesus Adelfo Hernandez Montiel,Sin dato,Activo,0.8,0.0,0.0,0.0,Julio Cesar,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-16,Eduardo Delón Páez,Sin dato,Activo,0.8,1.0,0.0,0.0,Nayeli,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-10,LUIS FERNANDO SANCHEZ QUIROZ,Sin dato,Activo,0.7,1.0,0.0,0.0,Mario,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-05,Ommar Herrera,Sin dato,Activo,0.7,1.0,0.0,0.0,Carlos Mejia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-06,Jaime Davila Baez,Sin dato,Activo,0.7,1.0,0.0,0.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-19,Jan cx,Sin dato,Activo,0.7,0.0,0.0,0.0,Carlos Mejia ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-16,BERNARDO ALCARAZ MORALES,Sin dato,Activo,0.8,1.0,0.0,0.0,Nayeli,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-07,Juan Carlos García Hernández,Sin dato,Activo,0.7,1.0,0.0,0.0,Carlos Mejia,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-15,Benjamin Mendez,Sin dato,Activo ,0.7,1.0,0.0,0.0,Vanny,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-06,Jesus F,Sin dato,Activo,0.6,0.0,0.0,0.0,Fer F,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-28,Sergio Flores,Sin dato,Activo,0.7,0.0,0.0,0.0,Fatima,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-28,Sofia polo,Sin dato,Activo,0.8,0.0,0.0,0.0,Vanny,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-29,Jorge Canche ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Ignacio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Igancio ,2026-06-28,Octavio Perez ,Sin dato,Activo ,0.7,0.0,1.0,0.0,Pedro Antonio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-28,Adelina Khalikova ,Sin dato,Activo ,0.7,1.0,0.0,0.0,Pedro Antonio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-27,Roberto Luna Rosas ,Sin dato,Activo ,0.5,1.0,0.0,1.0,Pedro Antonio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-19,Miguel Martinez ,Sin dato,Activo ,0.5,1.0,0.0,0.0,Nayeli ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-20,Humberto Valencia ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Aurelio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-19,Propescto Orizaba ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Nayeli ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,2026-06-24,Paul Kehrli,Sin dato,Activo,0.6,0.0,0.0,0.0,Pedro Antonio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,2026-06-15,Benjamin Mendez,Sin dato,Activo ,0.7,0.0,0.0,0.0,Vanny,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-06,Reynaldo Cobos ,Sin dato,Activo,0.8,1.0,0.0,0.0,Ulises,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-20,Arturo Moreno ,Sin dato,Activo,0.5,0.0,0.0,0.0,Nayeli,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-17,Moises Hdez,Sin dato,Activo,0.7,0.0,0.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+2027-07-01 00:00:00,Sin dato,Sin dato,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-04,Arquimedes Rugerio ,Sin dato,Activo ,0.6,1.0,0.0,0.0,Nayeli ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-06-04,Victor Manuel Diaz Ortiz ,Sin dato,Activo ,0.6,1.0,0.0,0.0,Cesar Pestaña,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-06-02,Margarita Romero Castillo,Sin dato,Activo ,1.0,1.0,1.0,0.0,Pedro Antonio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-07,Eder Chavez,Sin dato,Activo ,0.7,1.0,0.0,0.0,Fatima,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-07,Alejandro VELAZQUEZ,Sin dato,Activo ,0.8,1.0,1.0,0.0,Nayeli,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-11,Miguel irigoyen,Sin dato,Activo ,0.8,0.0,0.0,0.0,Julio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-08,Jose Hernandez Gonzalez,Sin dato,Activo ,0.8,1.0,1.0,0.0,Pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-09,Oswaldo Rueda ,Sin dato,Activo ,0.8,1.0,1.0,0.0,Pedro ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-10,Arturo Mendez ,Sin dato,Activo ,0.8,1.0,0.0,0.0,Mauricio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-08,Ruben Vargas,Sin dato,Acrivo,0.8,1.0,1.0,0.0,Julio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,2026-07-04,Edgar Herrera,Sin dato,Activo,0.8,1.0,0.0,0.0,Fatima,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Igancio ,2026-07-14,luis Hernandez,Sin dato,Activo ,0.5,1.0,0.0,0.0,Nayeli ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-14,Omar Garcia ,Sin dato,Activo ,0.5,1.0,0.0,0.0,Nayeli ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-13,Rosaura Mendez Quechol ,Sin dato,Activo ,1.0,0.0,0.0,1.0,Mauricio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-14,Alfonso f,Sin dato,Activo,0.7,1.0,0.0,0.0,Nayeli,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-10,Lizbeth Garcia,Sin dato,Activo,0.7,1.0,0.0,0.0,Julio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana ,2026-07-11,Mike Mora,Sin dato,Activo,0.9,0.0,1.0,0.0,Alfredo,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-14,Azucena de Jesus machorro arreola,Sin dato,Activo,1.0,1.0,1.0,0.0,Nayeli,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-13,Jose F,Sin dato,Activo,0.8,0.0,0.0,0.0,Sin dato,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-16,Daniel Padilla,Sin dato,Activo,0.9,1.0,1.0,0.0,Fernanda,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2025-07-16,Juan Carazo Juan Carazo,Sin dato,Activo,0.8,0.0,0.0,0.0,Pedro,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-16,MARIBEL BARRON,Sin dato,Activo,0.9,1.0,0.0,0.0,Mario,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Igancio ,2026-07-17,Bernardo Ayuso ,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Nayeli ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-16,Victor Garcai ,Sin dato,Sin dato,0.8,0.0,0.0,0.0,Alfredo ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-18,Johancarlo Islas ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Julio Cesar ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-16,Margaret Silva Serrano,Sin dato,Activo,0.8,1.0,0.0,0.0,Nayeli,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-21,Carlos Balderrama ,Sin dato,Activo ,0.5,1.0,1.0,1.0,Mario Varela ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-21,Andrés Netzahuatl ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Mauricio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-22,Arat Israel,Sin dato,Activo,0.8,1.0,1.0,0.0,Aurelio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ana,2026-07-22,Maira Escalante,Sin dato,Activo ,0.8,1.0,1.0,0.0,Pedro Antonio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-22,Zaira Macip ,Sin dato,Activo ,0.5,0.0,0.0,0.0,Aurelio ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-27,Julio Hernandez ,Sin dato,Activo ,0.5,1.0,0.0,0.0,Victor ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-24,Xhunaxhi Vicente ,Sin dato,Activo ,1.0,1.0,1.0,1.0,Ignacio,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
+Ignacio ,2026-07-29,DR Jairo Rodriguez Farias ,Sin dato,Activo ,1.0,1.0,1.0,1.0,Victor ,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta,Sin respuesta
